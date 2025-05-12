@@ -1,0 +1,9 @@
+Package: moe.waru.freerasp
+Name: FreeRasp
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: waruhachi
+Author: waruhachi
+Section: Tweaks
+Depends: mobilesubstrate
